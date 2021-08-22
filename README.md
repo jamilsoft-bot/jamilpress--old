@@ -1,2 +1,2 @@
 # jamilpress
-Free and open source CMS based on wordpress
+just another CMS Solutions from Jamilsoft Community
